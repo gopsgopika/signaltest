@@ -2,6 +2,7 @@
 
 <html>
 <head>
+
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
   var OneSignal = window.OneSignal || [];
@@ -11,6 +12,7 @@
     });
   });
 </script>
+
 </head>
 
 <body>
