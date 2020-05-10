@@ -2,17 +2,9 @@
 
 <html>
 <head>
-
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-<script>
-  var OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "0a0ead3e-180d-4399-a164-cc554421a145",
-    });
-  });
-</script>
-
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Spoon-Knife</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
