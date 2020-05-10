@@ -11,7 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Welcome 1
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "0a0ead3e-180d-4399-a164-cc554421a145",
+    });
+  });
+</script>
 ## Test page 2
 ### Header 3
 
